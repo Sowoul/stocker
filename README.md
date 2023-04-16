@@ -35,7 +35,7 @@ Loss function:
 ![image](https://user-images.githubusercontent.com/93905595/232272056-f6196145-704c-4c23-b478-0bfb38550479.png)
 
 
-Result:   
+# Result:   
 
 Intel stock price:   
 
