@@ -24,20 +24,25 @@ So, if the variable is set to 20, then, for predicting the output of 21st of Jan
 
 future_days: This is the number of days into the future that the model predicts. The accuracy drops exponentially with every passing day. 
 
-#Screenshots:
+# Screenshots:
 
-Input Gui:
+Input Gui:  
+
 ![image](https://user-images.githubusercontent.com/93905595/232271570-f972499b-7985-43d2-8e18-948d67dcead9.png)
 
-Loss function:
+Loss function:  
+
 ![image](https://user-images.githubusercontent.com/93905595/232272056-f6196145-704c-4c23-b478-0bfb38550479.png)
 
 
-Result:
-Intel stock price:
+Result:   
+
+Intel stock price:   
+
 ![image](https://user-images.githubusercontent.com/93905595/232271853-f1b0b6db-fafd-4ebc-a8f5-c80346b35604.png)
 
-Tesla stock price:
+Tesla stock price:   
+
 ![image](https://user-images.githubusercontent.com/93905595/232272023-373f1179-25c7-4a0b-a6df-d9e52ba76aaa.png)
 
 
